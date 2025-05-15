@@ -52,7 +52,7 @@ This will start a Gradio interface at http://127.0.0.1:7860.
 
 ## 📂 File Structure
 
-.
+
 ├── app.py                 # Main application file
 ├── README.md              # Project readme
 └── requirements.txt       # Package dependencies
