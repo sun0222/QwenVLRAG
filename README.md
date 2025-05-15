@@ -20,8 +20,8 @@ This is a Gradio-powered web demo for [Qwen2-VL-2B-Instruct](https://huggingface
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/qwen2-vl-demo.git
-cd qwen2-vl-demo
+git clone https://github.com/sun0222/QwenVLRAG.git
+cd QwenVLRAG
 
 #Create a virtual environment and activate it:
 
